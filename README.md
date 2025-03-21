@@ -10,3 +10,4 @@ git flow training
 
 ## Release Branch 생성 후 추가 작업이 필요 없는 경우
 - dev 브랜치 생성 
+- login 기능 구현
